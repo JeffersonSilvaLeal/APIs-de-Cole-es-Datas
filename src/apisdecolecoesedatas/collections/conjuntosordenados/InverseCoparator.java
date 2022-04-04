@@ -2,6 +2,10 @@ package apisdecolecoesedatas.collections.conjuntosordenados;
 
 import java.util.Comparator;
 
+/**
+ * Comparator classe que implementada que visa indicar a regra de comparação
+ *
+ */
 public class InverseCoparator implements Comparator<Character> {
 
 	@Override
