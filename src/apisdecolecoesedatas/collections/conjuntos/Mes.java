@@ -1,4 +1,4 @@
-package apisdecolecoesedatas.collections.conjuntosordenados;
+package apisdecolecoesedatas.collections.conjuntos;
 
 import java.util.Objects;
 
