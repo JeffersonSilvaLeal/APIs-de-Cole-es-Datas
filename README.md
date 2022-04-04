@@ -1,7 +1,7 @@
 <h1>Api-Java-Colecoes-E-Datas </h1>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de Aprenda o que é de fato importante sobre duas das mais importantes APIs do Java: coleções e datas..</p>
+<p>Ao final deste projeto, o Dev irá conhecer os principais conceitos, e Aprenda o que é de fato importante sobre duas das mais importantes APIs do Java: coleções e datas..</p>
 
 <h2>
 🛑 Pré-requistos
@@ -26,7 +26,6 @@
 <ul>
     <li>IDE Eclipse 2022</li>
     <li>Java 11</li>
-    <li>Maven</li>
 </ul>
 
 <h2> 🤝 Contribuindo </h2>
